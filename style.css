@@ -189,4 +189,11 @@ padding-bottom: 70px;
 padding: 0 20px;
 text-align: initial;
 }
-@media screen an
+@media screen and ( max-width:770px){
+    .title-tex h1{
+        font-size: 35px;
+    }
+    .features{
+        flex-basis: 100%;
+    }
+}
