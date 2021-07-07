@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+    margin: auto;
+    background-image: url(./pics/birds\ 2.jpg);
+    height: 590px;
+    width: 140vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
